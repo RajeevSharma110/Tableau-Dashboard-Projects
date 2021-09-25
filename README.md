@@ -7,22 +7,22 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   
 
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
-1. Amazon Shipping Analytics:
+## 1. Amazon Shipping Analytics:
 
 ![Amazon Shipping Analytics Image](https://user-images.githubusercontent.com/73953339/134778288-e469cbb4-0d14-4995-839f-6509c6b56d97.PNG)
 
-2. Tesla Stock Price:
+## 2. Tesla Stock Price:
 
 ![Tesla Analytics Image](https://user-images.githubusercontent.com/73953339/134778321-98ba2da1-5a82-42bd-a680-ba0c76012354.PNG)
 
-3. UT Mart Sales Analytics:
+## 3. UT Mart Sales Analytics:
 
 ![UT Mart Sales PNG](https://user-images.githubusercontent.com/73953339/134778338-29e98c69-3251-4240-9014-648f44ca1f2f.PNG)
 
 
 # What I Learnt in Tableau :
 
-    To Create 3 interactive dashboards and publish it online to share
+   -# To Create 3 interactive dashboards and publish it online to share
 
     Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
 
