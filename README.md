@@ -6,18 +6,9 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   3. UT Mart Sales Analytics            
   
 
-View all my Tableau-Projects Dashboards on my Tableau Public Profile link - https://public.tableau.com/profile/utkarsh.yadav6297#!/
-Screenshots
-1. Amazon Shipping Analytics Dashboard
+View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
 
-SS 1
-2. Tesla Stock Price Dashboard
-
-SS 2
-3. UT Mart Sales Analytics Dashboard
-
-SS 3
-What I Learnt in Tableau :
+# What I Learnt in Tableau :
 
     To Create 3 interactive dashboards and publish it online to share
 
