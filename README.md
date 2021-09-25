@@ -1,4 +1,4 @@
-# Tableau-Projects
+# Tableau-Dashboard-Projects
 Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
 
   1. Amazon Shipping Analytics    
